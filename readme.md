@@ -1,7 +1,7 @@
 # WDIConf is REAL(TM)
 ---------------------
 
-From humble begginings in old factory turned co-working spaces to just empty spaces with potentially uncomfortable chairs.
+From humble beginnings in old factory turned co-working spaces to just empty spaces with potentially uncomfortable chairs.
 
 WDIConf is where 200 means success and 418 is a teapot.
 
